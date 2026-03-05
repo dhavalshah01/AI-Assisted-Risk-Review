@@ -1,0 +1,112 @@
+[
+  {
+    "id": "NEWS-001",
+    "headline": "Fed Signals Potential Rate Hold Amid Persistent Inflation Concerns",
+    "source": "Reuters",
+    "date": "2026-03-03",
+    "summary": "Federal Reserve officials indicated they are likely to hold interest rates steady at the upcoming FOMC meeting, citing persistent inflation above the 2% target. Markets reacted negatively, with the S&P 500 dropping 1.8% on the news. Bond yields rose sharply, putting pressure on fixed income portfolios.",
+    "sectors": ["Financial Services", "Fixed Income", "Real Estate"],
+    "tickers": ["JPM", "GS", "BAC", "AGG", "TLT"],
+    "sentiment": "negative",
+    "impactLevel": "high"
+  },
+  {
+    "id": "NEWS-002",
+    "headline": "Major Tech Earnings Miss: NVIDIA and Apple Report Below Expectations",
+    "source": "Bloomberg",
+    "date": "2026-03-02",
+    "summary": "NVIDIA reported Q4 earnings 8% below analyst estimates, citing slower-than-expected AI infrastructure spending by enterprise customers. Apple also missed revenue targets by 3%, blaming weaker iPhone sales in China. The Nasdaq fell 2.4% in after-hours trading, dragging tech-heavy portfolios lower.",
+    "sectors": ["Technology"],
+    "tickers": ["NVDA", "AAPL", "MSFT", "AMD", "META"],
+    "sentiment": "negative",
+    "impactLevel": "high"
+  },
+  {
+    "id": "NEWS-003",
+    "headline": "Energy Prices Surge 8% on Middle East Supply Disruption",
+    "source": "Financial Times",
+    "date": "2026-03-03",
+    "summary": "Crude oil prices jumped 8% following reports of supply chain disruptions in the Strait of Hormuz. Energy sector stocks rallied with ExxonMobil and Chevron up 6–9%. Analysts warn of increased volatility and potential knock-on effects for transportation and consumer sectors.",
+    "sectors": ["Energy"],
+    "tickers": ["XOM", "CVX", "COP", "SLB"],
+    "sentiment": "positive",
+    "impactLevel": "high"
+  },
+  {
+    "id": "NEWS-004",
+    "headline": "FDA Announces Accelerated Review Process Changes Affecting Drug Approvals",
+    "source": "CNBC",
+    "date": "2026-03-01",
+    "summary": "The FDA proposed new regulatory changes that could lengthen drug approval timelines by 6–12 months for certain therapeutic categories. Pharmaceutical stocks dropped broadly, with Pfizer down 9% and Eli Lilly down 11%. Biotech and pharma-heavy portfolios face elevated regulatory risk.",
+    "sectors": ["Healthcare"],
+    "tickers": ["PFE", "LLY", "ABBV", "JNJ", "UNH"],
+    "sentiment": "negative",
+    "impactLevel": "high"
+  },
+  {
+    "id": "NEWS-005",
+    "headline": "Tesla Recalls 1.2M Vehicles Over Autopilot Software Concerns",
+    "source": "Wall Street Journal",
+    "date": "2026-03-02",
+    "summary": "Tesla announced a recall of 1.2 million vehicles due to a potential issue with its Autopilot software. The stock fell 14.6% in the last 30 days. Consumer discretionary portfolios with significant Tesla holdings face concentrated downside risk.",
+    "sectors": ["Consumer Discretionary", "Technology"],
+    "tickers": ["TSLA"],
+    "sentiment": "negative",
+    "impactLevel": "high"
+  },
+  {
+    "id": "NEWS-006",
+    "headline": "Consumer Staples Outperform as Investors Rotate to Defensive Sectors",
+    "source": "MarketWatch",
+    "date": "2026-03-03",
+    "summary": "Consumer staples stocks posted gains as investors sought safety amid market volatility. Procter & Gamble, Coca-Cola, and Walmart all posted positive returns. Analysts recommend increasing defensive exposure in portfolios with high growth-stock concentration.",
+    "sectors": ["Consumer Staples"],
+    "tickers": ["PG", "KO", "WMT"],
+    "sentiment": "positive",
+    "impactLevel": "medium"
+  },
+  {
+    "id": "NEWS-007",
+    "headline": "Utilities Sector Sees Steady Inflows as Safe Haven Play",
+    "source": "Barron's",
+    "date": "2026-03-01",
+    "summary": "Utility stocks including NextEra Energy and Duke Energy attracted significant inflows as investors rotated out of growth stocks. The sector is up 1.5% on the month, outperforming the broader market by 3.3%. Analysts see continued demand for yield-producing defensive assets.",
+    "sectors": ["Utilities"],
+    "tickers": ["NEE", "DUK", "SO"],
+    "sentiment": "positive",
+    "impactLevel": "medium"
+  },
+  {
+    "id": "NEWS-008",
+    "headline": "Goldman Sachs Downgrades Semiconductor Sector to 'Neutral'",
+    "source": "Bloomberg",
+    "date": "2026-03-03",
+    "summary": "Goldman Sachs downgraded the semiconductor sector from 'Overweight' to 'Neutral', citing inventory correction risks and slowing AI capex growth. AMD, NVIDIA, and Intel all declined. Portfolios with semiconductor concentration should consider rebalancing.",
+    "sectors": ["Technology"],
+    "tickers": ["NVDA", "AMD", "MSFT"],
+    "sentiment": "negative",
+    "impactLevel": "medium"
+  },
+  {
+    "id": "NEWS-009",
+    "headline": "Commercial Real Estate Concerns Weigh on REIT Performance",
+    "source": "Reuters",
+    "date": "2026-02-28",
+    "summary": "Rising interest rates and increased office vacancy rates continue to pressure commercial real estate investment trusts. American Tower and Prologis both declined 2–3%. REIT-heavy portfolios may need to reassess allocation given the rate environment.",
+    "sectors": ["Real Estate"],
+    "tickers": ["AMT", "PLD"],
+    "sentiment": "negative",
+    "impactLevel": "medium"
+  },
+  {
+    "id": "NEWS-010",
+    "headline": "Industrial Sector Mixed as Supply Chain Improvements Offset Weak Demand",
+    "source": "Financial Times",
+    "date": "2026-03-02",
+    "summary": "Industrial stocks showed mixed performance. While supply chain improvements benefited manufacturers, weaker global demand from China and Europe held back gains. Caterpillar and Honeywell posted modest declines of 1–2%. The sector remains in a 'wait and see' holding pattern.",
+    "sectors": ["Industrials"],
+    "tickers": ["CAT", "HON", "GE", "DE", "UPS"],
+    "sentiment": "neutral",
+    "impactLevel": "low"
+  }
+]

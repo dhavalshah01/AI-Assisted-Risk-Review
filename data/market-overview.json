@@ -1,0 +1,39 @@
+{
+  "index": "S&P 500",
+  "currentValue": 5245.32,
+  "previousClose": 5341.47,
+  "dayChange": -96.15,
+  "dayChangePercent": -1.8,
+  "yearToDateReturn": -3.2,
+  "volatilityIndex": 28.4,
+  "sentiment": "cautious-negative",
+  "sentimentScore": -0.62,
+  "asOfDate": "2026-03-04",
+  "drivers": [
+    {
+      "factor": "Federal Reserve Policy",
+      "impact": "negative",
+      "detail": "Fed signals potential rate hold amid persistent inflation above 2% target. Markets pricing in delayed rate cuts."
+    },
+    {
+      "factor": "Tech Sector Earnings",
+      "impact": "negative",
+      "detail": "Major tech earnings miss expectations by 4% on average. NVIDIA and Apple both reported below consensus, dragging Nasdaq down 2.4%."
+    },
+    {
+      "factor": "Energy Supply Disruption",
+      "impact": "mixed",
+      "detail": "Energy prices surge 8% on Middle East supply concerns in Strait of Hormuz. Bullish for energy stocks, bearish for consumer sectors."
+    }
+  ],
+  "sectorPerformance": {
+    "Energy": "+7.2%",
+    "Utilities": "+1.5%",
+    "Consumer Staples": "+0.8%",
+    "Healthcare": "-3.4%",
+    "Financial Services": "-2.8%",
+    "Industrials": "-1.7%",
+    "Technology": "-5.6%",
+    "Consumer Discretionary": "-6.1%"
+  }
+}

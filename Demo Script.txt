@@ -1,0 +1,78 @@
+
+3 Minute Demo script
+
+
+3‑minute demo script (talk track + on-screen actions)
+0:00–0:15 — Hook & setup (why this matters)
+Narrator:
+“Portfolio reviews are high-stakes and time-sensitive. Advisors must track fast-moving market data, spot client portfolios at risk, and stay compliant — all while communicating clearly with clients. Today I’ll show an AI‑Assisted Broker Portfolio Risk Review that helps a broker move from market signal → portfolio action → compliant client outreach in minutes.”
+On-screen:
+Open your demo app (or Copilot-powered interface) titled Portfolio Risk Review. Show three connected tiles/tools: Portfolio system, News aggregator, Email drafting (Outlook).
+
+0:15–0:40 — Step 1: Analyze market overview (sentiment + key figures)
+Narrator:
+“First, we start with a quick market pulse. The broker asks for an overview plus sentiment to understand what’s driving risk today.”
+On-screen (Prompt):
+“Give me the S&P 500 market overview and a sentiment analysis.”
+Copilot (Expected output you can show):
+A short market summary + sentiment indicator (positive/neutral/negative) and 2–3 drivers.
+Narrator (callout):
+“Copilot compiles the latest figures and a sentiment snapshot so the broker doesn’t waste time hunting across dashboards.”
+
+0:40–1:15 — Step 2: Identify VIP portfolios needing attention (risk triage)
+Narrator:
+“Next, the broker needs to know which VIP portfolios require immediate attention — based on shifts in asset value or risk exposure.” [Study guid...soft Learn | Learn.Microsoft.com]
+On-screen (Prompt):
+“Bring back my top 4 client portfolios that need immediate attention, highlighting significant changes in asset value or risk exposure due to market shifts.”
+Copilot (Expected output):
+A ranked list of 4 portfolios with “why flagged” (e.g., sector concentration, drawdown, volatility spike).
+Narrator (callout):
+“Copilot summarizes the portfolios that need attention and lets the broker drill into one for details.” [Study guid...soft Learn | Learn.Microsoft.com]
+
+1:15–1:40 — Step 3: Pull the news that explains the risk (what changed + why)
+Narrator:
+“Now we need context. The broker asks Copilot to find and summarize the most impactful news affecting the portfolio’s segments and holdings.”
+On-screen (Prompt):
+“Find and analyze recent news affecting sectors in Portfolio #1 and summarize what could impact its key holdings.”
+Copilot (Expected output):
+2–4 news items with short summaries and relevance notes.
+Narrator (callout):
+“Copilot integrates with a news aggregator and highlights the key points that matter for the portfolio — saving time and focusing attention.”
+
+1:40–2:10 — Step 4: Identify investment opportunities (recommendations + rationale)
+Narrator:
+“Based on market conditions and news, Copilot can propose a short list of opportunities from the portfolio optimization system — with reasons.”
+On-screen (Prompt):
+“Based on current market conditions and what we found, identify investment opportunities and explain why they’re relevant for Portfolio #1.”
+Copilot (Expected output):
+Top 5 opportunities + rationale (diversification, risk reduction, hedging, quality tilt, etc.).
+Narrator (callout):
+“This is where the broker shifts from reactive to proactive — turning signals into recommendations.”
+
+2:10–2:35 — Step 5: Draft client recommendation email (personalized outreach)
+Narrator:
+“Now the broker needs to communicate clearly and quickly. Copilot drafts a personalized email recommending a portfolio review and proposing a meeting.”
+On-screen (Prompt):
+“Draft an email to the client outlining why we should rebalance due to market shifts, summarize the key drivers, and suggest a meeting.”
+Copilot (Expected output):
+A client-ready email: friendly tone, clear rationale, proposed next steps, meeting ask.
+Narrator (callout):
+“This reduces cycle time — the broker starts from a strong draft and edits before sending.”
+
+2:35–2:55 — Step 6: Assist with compliance (SEC + company policy pre-check)
+Narrator:
+“Finally, financial services requires compliance awareness. Copilot can scan proposed changes against regulatory and internal guidance and highlight potential concerns — giving the broker a head start on the review.”
+On-screen (Prompt):
+“Review these proposed portfolio changes for compliance with SEC guidelines and our company standards. Flag anything that needs attention.”
+Copilot (Expected output):
+A checklist of potential compliance flags (e.g., suitability notes, disclosure reminders, restricted product checks) and what to verify.
+Narrator (callout):
+“Copilot doesn’t replace compliance — it accelerates it by surfacing what to double-check.”
+
+2:55–3:00 — Close (business value + KPIs)
+Narrator:
+“In under three minutes, we went from market signal → portfolio triage → news drivers → opportunities → client outreach → compliance pre-check. The impact is faster reviews, stronger client engagement, and better focus on retention and assets under management.”
+
+Optional “one-liner” you can add if this is for the Copilot SDK Challenge
+Narrator:
+“And because this is built as an embedded agent experience, you can connect it directly to your portfolio system, news tools, and email workflow — bringing agentic execution into the apps advisors already use.”

@@ -1,0 +1,74 @@
+[
+  {
+    "ruleId": "SEC-001",
+    "category": "SEC",
+    "name": "Suitability Review Required",
+    "description": "SEC Rule 2111 — All investment recommendations must be suitable for the client based on their investment profile, risk tolerance, financial situation, and investment objectives.",
+    "triggerCondition": "Any rebalancing or new investment recommendation",
+    "flagLevel": "critical",
+    "action": "Verify client's current risk tolerance profile is up to date. Confirm that proposed changes align with documented investment objectives. Document suitability rationale before executing trades."
+  },
+  {
+    "ruleId": "SEC-002",
+    "category": "SEC",
+    "name": "Concentration Risk Disclosure",
+    "description": "SEC guidance on concentrated positions — Advisors must disclose and document risks when a single sector exceeds 25% of portfolio value or a single holding exceeds 10%.",
+    "triggerCondition": "Sector allocation exceeds 25% or single holding exceeds 10% of portfolio value",
+    "flagLevel": "warning",
+    "action": "Provide written disclosure to client about concentration risk. Document client acknowledgment. Consider recommending diversification strategy."
+  },
+  {
+    "ruleId": "SEC-003",
+    "category": "SEC",
+    "name": "Best Execution Obligation",
+    "description": "SEC Rule 5310 — Broker must use reasonable diligence to ascertain best market for the security and buy/sell at the most favorable price under prevailing conditions.",
+    "triggerCondition": "Any trade execution across all recommended changes",
+    "flagLevel": "warning",
+    "action": "Document price comparison across available venues. Ensure execution during optimal market hours. Record best execution analysis for audit trail."
+  },
+  {
+    "ruleId": "COMP-001",
+    "category": "company",
+    "name": "High-Risk Rebalance Approval",
+    "description": "Company Policy CP-401 — Portfolio rebalancing involving changes exceeding 15% of total portfolio value requires senior advisor approval and compliance sign-off.",
+    "triggerCondition": "Proposed trades exceed 15% of total portfolio value in aggregate",
+    "flagLevel": "critical",
+    "action": "Submit rebalancing proposal to senior advisor for review. Obtain compliance department sign-off before executing. Document approval chain in client file."
+  },
+  {
+    "ruleId": "COMP-002",
+    "category": "company",
+    "name": "Restricted Product Check",
+    "description": "Company Policy CP-210 — Certain investment products are on the restricted list and require additional due diligence or are prohibited for certain client profiles.",
+    "triggerCondition": "Recommendation includes leveraged ETFs, inverse products, options strategies, or products on the restricted list",
+    "flagLevel": "critical",
+    "action": "Cross-reference recommendations against current restricted product list. If flagged, substitute with approved alternative or escalate to compliance for exception review."
+  },
+  {
+    "ruleId": "COMP-003",
+    "category": "company",
+    "name": "Client Communication Standards",
+    "description": "Company Policy CP-305 — All client communications regarding investment recommendations must include standard disclaimers, risk disclosures, and cannot guarantee returns.",
+    "triggerCondition": "Any client email, letter, or communication containing investment recommendations",
+    "flagLevel": "warning",
+    "action": "Ensure email includes standard risk disclosure footer. Verify no return guarantees or promissory language. Include 'past performance is not indicative of future results' disclaimer."
+  },
+  {
+    "ruleId": "SEC-004",
+    "category": "SEC",
+    "name": "Anti-Churning Compliance",
+    "description": "SEC Rule 15c1-7 — Advisors must not engage in excessive trading that primarily generates commissions without benefiting the client.",
+    "triggerCondition": "Multiple rebalancing actions within a 90-day window or portfolio turnover exceeding 40%",
+    "flagLevel": "warning",
+    "action": "Review trade frequency over the past 90 days. Calculate portfolio turnover ratio. Document investment rationale for each trade. Ensure fee impact is disclosed to client."
+  },
+  {
+    "ruleId": "COMP-004",
+    "category": "company",
+    "name": "Concentration Threshold Policy",
+    "description": "Company Policy CP-115 — No single sector should exceed 40% of a client portfolio without documented client consent and risk acknowledgment form.",
+    "triggerCondition": "Any sector allocation exceeds 40% of total portfolio value",
+    "flagLevel": "critical",
+    "action": "Flag portfolio for concentration review. Obtain signed client risk acknowledgment form (Form RA-40). Recommend diversification plan. Schedule quarterly review."
+  }
+]

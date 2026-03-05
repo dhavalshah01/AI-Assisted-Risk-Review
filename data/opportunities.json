@@ -1,0 +1,90 @@
+[
+  {
+    "id": "OPP-001",
+    "name": "Vanguard Total Bond Market ETF",
+    "ticker": "BND",
+    "type": "ETF",
+    "rationale": "diversification",
+    "description": "Broad fixed income exposure to reduce portfolio volatility. Provides ballast against equity drawdowns and yields approximately 4.2% in current rate environment.",
+    "expectedBenefit": "Reduce overall portfolio risk by 15-20% while maintaining income. Acts as a hedge against further equity market declines.",
+    "relevantForSectors": ["Technology", "Consumer Discretionary"],
+    "riskLevel": "low"
+  },
+  {
+    "id": "OPP-002",
+    "name": "iShares MSCI Min Vol USA ETF",
+    "ticker": "USMV",
+    "type": "ETF",
+    "rationale": "risk-reduction",
+    "description": "Low-volatility equity fund that targets minimum variance. Ideal for rotating out of high-beta tech holdings while maintaining equity market exposure.",
+    "expectedBenefit": "Maintain equity upside participation with 30% lower volatility than the S&P 500. Reduces drawdown risk during market corrections.",
+    "relevantForSectors": ["Technology", "Consumer Discretionary"],
+    "riskLevel": "low"
+  },
+  {
+    "id": "OPP-003",
+    "name": "SPDR Gold Shares",
+    "ticker": "GLD",
+    "type": "ETF",
+    "rationale": "hedging",
+    "description": "Gold ETF for portfolio hedging against inflation and geopolitical risk. With energy supply concerns and persistent inflation, gold serves as a traditional safe haven.",
+    "expectedBenefit": "Portfolio hedge providing 5-8% expected return in risk-off scenarios. Historically low correlation to equities provides diversification benefit.",
+    "relevantForSectors": ["Technology", "Energy", "Financial Services"],
+    "riskLevel": "medium"
+  },
+  {
+    "id": "OPP-004",
+    "name": "Consumer Staples Select Sector SPDR",
+    "ticker": "XLP",
+    "type": "ETF",
+    "rationale": "quality-tilt",
+    "description": "Defensive consumer staples sector ETF with strong dividend yield. Includes Procter & Gamble, Coca-Cola, and Walmart — companies outperforming in current rotation.",
+    "expectedBenefit": "Capture defensive rotation trend with 2.8% dividend yield. Sector has outperformed S&P 500 by 3.3% over the past month.",
+    "relevantForSectors": ["Technology", "Consumer Discretionary", "Healthcare"],
+    "riskLevel": "low"
+  },
+  {
+    "id": "OPP-005",
+    "name": "Utilities Select Sector SPDR",
+    "ticker": "XLU",
+    "type": "ETF",
+    "rationale": "risk-reduction",
+    "description": "Utilities sector ETF offering stable dividends and low volatility. Current inflows indicate strong institutional demand for yield-producing safe havens.",
+    "expectedBenefit": "Stable 3.1% dividend yield with lower beta (~0.5). Provides portfolio stability during market turbulence with consistent cash flow generation.",
+    "relevantForSectors": ["Technology", "Consumer Discretionary", "Energy"],
+    "riskLevel": "low"
+  },
+  {
+    "id": "OPP-006",
+    "name": "iShares Short Treasury Bond ETF",
+    "ticker": "SHV",
+    "type": "ETF",
+    "rationale": "hedging",
+    "description": "Ultra-short duration treasury bonds for capital preservation. Yields approximately 5.1% with minimal interest rate risk. Ideal parking spot while awaiting market stabilization.",
+    "expectedBenefit": "Near-zero downside risk with 5.1% yield. Preserves capital while providing optionality to redeploy at better entry points.",
+    "relevantForSectors": ["Technology", "Healthcare", "Consumer Discretionary"],
+    "riskLevel": "very-low"
+  },
+  {
+    "id": "OPP-007",
+    "name": "Berkshire Hathaway Inc",
+    "ticker": "BRK.B",
+    "type": "equity",
+    "rationale": "quality-tilt",
+    "description": "High-quality conglomerate with diversified business exposure and strong cash position ($150B+). Historically outperforms during market corrections and provides broad sector exposure.",
+    "expectedBenefit": "Quality factor exposure with low downside capture ratio. Strong balance sheet provides a margin of safety in volatile markets.",
+    "relevantForSectors": ["Technology", "Financial Services", "Consumer Discretionary"],
+    "riskLevel": "medium"
+  },
+  {
+    "id": "OPP-008",
+    "name": "Energy Select Sector SPDR",
+    "ticker": "XLE",
+    "type": "ETF",
+    "rationale": "diversification",
+    "description": "Energy sector ETF benefiting from supply disruption tailwinds. Sector is up 7% this month and provides natural inflation hedge. Suitable for portfolios underweight energy.",
+    "expectedBenefit": "Capitalize on energy supply disruption trends with potential for continued upside. Provides inflation protection and portfolio diversification.",
+    "relevantForSectors": ["Technology", "Healthcare", "Fixed Income"],
+    "riskLevel": "medium"
+  }
+]

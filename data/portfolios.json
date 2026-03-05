@@ -1,0 +1,550 @@
+[
+  {
+    "portfolioId": "PF-001",
+    "clientName": "Margaret Chen",
+    "clientEmail": "m.chen@prestige-wealth.com",
+    "totalValue": 4250000,
+    "riskScore": 82,
+    "recentChange": -8.3,
+    "flagReason": "Tech sector concentration at 48% — significant drawdown risk with recent earnings misses",
+    "allocation": {
+      "Technology": 48,
+      "Healthcare": 15,
+      "Financial Services": 12,
+      "Energy": 10,
+      "Consumer Discretionary": 8,
+      "Cash": 7
+    },
+    "holdings": [
+      { "ticker": "NVDA", "name": "NVIDIA Corp", "sector": "Technology", "weight": 18, "performance30d": -12.4 },
+      { "ticker": "MSFT", "name": "Microsoft Corp", "sector": "Technology", "weight": 14, "performance30d": -5.2 },
+      { "ticker": "AAPL", "name": "Apple Inc", "sector": "Technology", "weight": 10, "performance30d": -7.8 },
+      { "ticker": "AMZN", "name": "Amazon.com Inc", "sector": "Technology", "weight": 6, "performance30d": -3.1 },
+      { "ticker": "JNJ", "name": "Johnson & Johnson", "sector": "Healthcare", "weight": 8, "performance30d": 1.2 },
+      { "ticker": "UNH", "name": "UnitedHealth Group", "sector": "Healthcare", "weight": 7, "performance30d": -0.8 },
+      { "ticker": "JPM", "name": "JPMorgan Chase", "sector": "Financial Services", "weight": 7, "performance30d": -2.1 },
+      { "ticker": "GS", "name": "Goldman Sachs", "sector": "Financial Services", "weight": 5, "performance30d": -3.5 },
+      { "ticker": "XOM", "name": "ExxonMobil", "sector": "Energy", "weight": 6, "performance30d": 8.7 },
+      { "ticker": "CVX", "name": "Chevron Corp", "sector": "Energy", "weight": 4, "performance30d": 6.2 },
+      { "ticker": "TSLA", "name": "Tesla Inc", "sector": "Consumer Discretionary", "weight": 5, "performance30d": -14.6 },
+      { "ticker": "NKE", "name": "Nike Inc", "sector": "Consumer Discretionary", "weight": 3, "performance30d": -4.3 }
+    ]
+  },
+  {
+    "portfolioId": "PF-002",
+    "clientName": "Robert Blackwell III",
+    "clientEmail": "r.blackwell@summit-advisory.com",
+    "totalValue": 7800000,
+    "riskScore": 71,
+    "recentChange": -5.1,
+    "flagReason": "Energy overweight at 35% with geopolitical volatility spike — rebalancing window",
+    "allocation": {
+      "Energy": 35,
+      "Financial Services": 20,
+      "Industrials": 15,
+      "Technology": 12,
+      "Utilities": 10,
+      "Cash": 8
+    },
+    "holdings": [
+      { "ticker": "XOM", "name": "ExxonMobil", "sector": "Energy", "weight": 14, "performance30d": 8.7 },
+      { "ticker": "CVX", "name": "Chevron Corp", "sector": "Energy", "weight": 10, "performance30d": 6.2 },
+      { "ticker": "SLB", "name": "Schlumberger", "sector": "Energy", "weight": 6, "performance30d": 4.1 },
+      { "ticker": "COP", "name": "ConocoPhillips", "sector": "Energy", "weight": 5, "performance30d": 5.8 },
+      { "ticker": "JPM", "name": "JPMorgan Chase", "sector": "Financial Services", "weight": 10, "performance30d": -2.1 },
+      { "ticker": "BAC", "name": "Bank of America", "sector": "Financial Services", "weight": 10, "performance30d": -3.8 },
+      { "ticker": "CAT", "name": "Caterpillar", "sector": "Industrials", "weight": 8, "performance30d": -1.5 },
+      { "ticker": "HON", "name": "Honeywell", "sector": "Industrials", "weight": 7, "performance30d": -2.3 },
+      { "ticker": "MSFT", "name": "Microsoft Corp", "sector": "Technology", "weight": 7, "performance30d": -5.2 },
+      { "ticker": "GOOGL", "name": "Alphabet Inc", "sector": "Technology", "weight": 5, "performance30d": -4.7 },
+      { "ticker": "NEE", "name": "NextEra Energy", "sector": "Utilities", "weight": 5, "performance30d": 1.8 },
+      { "ticker": "DUK", "name": "Duke Energy", "sector": "Utilities", "weight": 5, "performance30d": 0.9 }
+    ]
+  },
+  {
+    "portfolioId": "PF-003",
+    "clientName": "Dr. Aisha Patel",
+    "clientEmail": "a.patel@heritagefp.com",
+    "totalValue": 3100000,
+    "riskScore": 65,
+    "recentChange": -6.7,
+    "flagReason": "Healthcare concentration at 42% — regulatory risk from pending FDA policy changes",
+    "allocation": {
+      "Healthcare": 42,
+      "Technology": 18,
+      "Consumer Staples": 15,
+      "Real Estate": 12,
+      "Cash": 13
+    },
+    "holdings": [
+      { "ticker": "UNH", "name": "UnitedHealth Group", "sector": "Healthcare", "weight": 14, "performance30d": -0.8 },
+      { "ticker": "PFE", "name": "Pfizer Inc", "sector": "Healthcare", "weight": 10, "performance30d": -9.3 },
+      { "ticker": "ABBV", "name": "AbbVie Inc", "sector": "Healthcare", "weight": 10, "performance30d": -4.5 },
+      { "ticker": "LLY", "name": "Eli Lilly", "sector": "Healthcare", "weight": 8, "performance30d": -11.2 },
+      { "ticker": "AAPL", "name": "Apple Inc", "sector": "Technology", "weight": 10, "performance30d": -7.8 },
+      { "ticker": "MSFT", "name": "Microsoft Corp", "sector": "Technology", "weight": 8, "performance30d": -5.2 },
+      { "ticker": "PG", "name": "Procter & Gamble", "sector": "Consumer Staples", "weight": 8, "performance30d": 0.4 },
+      { "ticker": "KO", "name": "Coca-Cola", "sector": "Consumer Staples", "weight": 7, "performance30d": 1.1 },
+      { "ticker": "AMT", "name": "American Tower", "sector": "Real Estate", "weight": 7, "performance30d": -2.6 },
+      { "ticker": "PLD", "name": "Prologis", "sector": "Real Estate", "weight": 5, "performance30d": -1.9 }
+    ]
+  },
+  {
+    "portfolioId": "PF-004",
+    "clientName": "James & Linda Morrison",
+    "clientEmail": "morrison.family@legacywealth.com",
+    "totalValue": 5500000,
+    "riskScore": 58,
+    "recentChange": -3.9,
+    "flagReason": "Fixed income allocation dropped below minimum threshold — bond portfolio underperforming with rate uncertainty",
+    "allocation": {
+      "Fixed Income": 22,
+      "Technology": 20,
+      "Healthcare": 15,
+      "Financial Services": 15,
+      "Industrials": 13,
+      "Cash": 15
+    },
+    "holdings": [
+      { "ticker": "AGG", "name": "iShares Core US Aggregate Bond", "sector": "Fixed Income", "weight": 12, "performance30d": -1.8 },
+      { "ticker": "TLT", "name": "iShares 20+ Year Treasury Bond", "sector": "Fixed Income", "weight": 10, "performance30d": -3.2 },
+      { "ticker": "MSFT", "name": "Microsoft Corp", "sector": "Technology", "weight": 10, "performance30d": -5.2 },
+      { "ticker": "AAPL", "name": "Apple Inc", "sector": "Technology", "weight": 10, "performance30d": -7.8 },
+      { "ticker": "JNJ", "name": "Johnson & Johnson", "sector": "Healthcare", "weight": 8, "performance30d": 1.2 },
+      { "ticker": "PFE", "name": "Pfizer Inc", "sector": "Healthcare", "weight": 7, "performance30d": -9.3 },
+      { "ticker": "JPM", "name": "JPMorgan Chase", "sector": "Financial Services", "weight": 8, "performance30d": -2.1 },
+      { "ticker": "WFC", "name": "Wells Fargo", "sector": "Financial Services", "weight": 7, "performance30d": -4.2 },
+      { "ticker": "GE", "name": "GE Aerospace", "sector": "Industrials", "weight": 7, "performance30d": -1.1 },
+      { "ticker": "UPS", "name": "United Parcel Service", "sector": "Industrials", "weight": 6, "performance30d": -2.8 }
+    ]
+  },
+  {
+    "portfolioId": "PF-005",
+    "clientName": "Sarah Whitfield",
+    "clientEmail": "s.whitfield@capitalbridge.com",
+    "totalValue": 2850000,
+    "riskScore": 45,
+    "recentChange": -1.2,
+    "flagReason": null,
+    "allocation": {
+      "Fixed Income": 40,
+      "Technology": 15,
+      "Consumer Staples": 15,
+      "Utilities": 15,
+      "Cash": 15
+    },
+    "holdings": [
+      { "ticker": "AGG", "name": "iShares Core US Aggregate Bond", "sector": "Fixed Income", "weight": 20, "performance30d": -1.8 },
+      { "ticker": "BND", "name": "Vanguard Total Bond Market", "sector": "Fixed Income", "weight": 20, "performance30d": -1.5 },
+      { "ticker": "MSFT", "name": "Microsoft Corp", "sector": "Technology", "weight": 8, "performance30d": -5.2 },
+      { "ticker": "AAPL", "name": "Apple Inc", "sector": "Technology", "weight": 7, "performance30d": -7.8 },
+      { "ticker": "PG", "name": "Procter & Gamble", "sector": "Consumer Staples", "weight": 8, "performance30d": 0.4 },
+      { "ticker": "WMT", "name": "Walmart Inc", "sector": "Consumer Staples", "weight": 7, "performance30d": 2.1 },
+      { "ticker": "NEE", "name": "NextEra Energy", "sector": "Utilities", "weight": 8, "performance30d": 1.8 },
+      { "ticker": "DUK", "name": "Duke Energy", "sector": "Utilities", "weight": 7, "performance30d": 0.9 }
+    ]
+  },
+  {
+    "portfolioId": "PF-006",
+    "clientName": "Victor Huang",
+    "clientEmail": "v.huang@pacificrim-advisory.com",
+    "totalValue": 6200000,
+    "riskScore": 50,
+    "recentChange": -2.4,
+    "flagReason": null,
+    "allocation": {
+      "Technology": 25,
+      "Healthcare": 20,
+      "Financial Services": 20,
+      "Consumer Discretionary": 15,
+      "Cash": 20
+    },
+    "holdings": [
+      { "ticker": "AAPL", "name": "Apple Inc", "sector": "Technology", "weight": 12, "performance30d": -7.8 },
+      { "ticker": "GOOGL", "name": "Alphabet Inc", "sector": "Technology", "weight": 13, "performance30d": -4.7 },
+      { "ticker": "UNH", "name": "UnitedHealth Group", "sector": "Healthcare", "weight": 10, "performance30d": -0.8 },
+      { "ticker": "JNJ", "name": "Johnson & Johnson", "sector": "Healthcare", "weight": 10, "performance30d": 1.2 },
+      { "ticker": "JPM", "name": "JPMorgan Chase", "sector": "Financial Services", "weight": 10, "performance30d": -2.1 },
+      { "ticker": "MS", "name": "Morgan Stanley", "sector": "Financial Services", "weight": 10, "performance30d": -3.0 },
+      { "ticker": "AMZN", "name": "Amazon.com Inc", "sector": "Consumer Discretionary", "weight": 8, "performance30d": -3.1 },
+      { "ticker": "HD", "name": "Home Depot", "sector": "Consumer Discretionary", "weight": 7, "performance30d": -2.0 }
+    ]
+  },
+  {
+    "portfolioId": "PF-007",
+    "clientName": "Elizabeth Thornton",
+    "clientEmail": "e.thornton@goldenoak-wealth.com",
+    "totalValue": 9100000,
+    "riskScore": 38,
+    "recentChange": -0.8,
+    "flagReason": null,
+    "allocation": {
+      "Fixed Income": 45,
+      "Real Estate": 20,
+      "Utilities": 15,
+      "Consumer Staples": 10,
+      "Cash": 10
+    },
+    "holdings": [
+      { "ticker": "AGG", "name": "iShares Core US Aggregate Bond", "sector": "Fixed Income", "weight": 20, "performance30d": -1.8 },
+      { "ticker": "TLT", "name": "iShares 20+ Year Treasury Bond", "sector": "Fixed Income", "weight": 15, "performance30d": -3.2 },
+      { "ticker": "LQD", "name": "iShares Investment Grade Corporate", "sector": "Fixed Income", "weight": 10, "performance30d": -1.1 },
+      { "ticker": "AMT", "name": "American Tower", "sector": "Real Estate", "weight": 10, "performance30d": -2.6 },
+      { "ticker": "PLD", "name": "Prologis", "sector": "Real Estate", "weight": 10, "performance30d": -1.9 },
+      { "ticker": "NEE", "name": "NextEra Energy", "sector": "Utilities", "weight": 8, "performance30d": 1.8 },
+      { "ticker": "SO", "name": "Southern Company", "sector": "Utilities", "weight": 7, "performance30d": 1.2 },
+      { "ticker": "PG", "name": "Procter & Gamble", "sector": "Consumer Staples", "weight": 5, "performance30d": 0.4 },
+      { "ticker": "KO", "name": "Coca-Cola", "sector": "Consumer Staples", "weight": 5, "performance30d": 1.1 }
+    ]
+  },
+  {
+    "portfolioId": "PF-008",
+    "clientName": "David Kim",
+    "clientEmail": "d.kim@nexusfin.com",
+    "totalValue": 1800000,
+    "riskScore": 76,
+    "recentChange": -4.5,
+    "flagReason": null,
+    "allocation": {
+      "Technology": 35,
+      "Consumer Discretionary": 25,
+      "Financial Services": 20,
+      "Cash": 20
+    },
+    "holdings": [
+      { "ticker": "NVDA", "name": "NVIDIA Corp", "sector": "Technology", "weight": 15, "performance30d": -12.4 },
+      { "ticker": "AMD", "name": "Advanced Micro Devices", "sector": "Technology", "weight": 10, "performance30d": -9.8 },
+      { "ticker": "MSFT", "name": "Microsoft Corp", "sector": "Technology", "weight": 10, "performance30d": -5.2 },
+      { "ticker": "TSLA", "name": "Tesla Inc", "sector": "Consumer Discretionary", "weight": 13, "performance30d": -14.6 },
+      { "ticker": "AMZN", "name": "Amazon.com Inc", "sector": "Consumer Discretionary", "weight": 12, "performance30d": -3.1 },
+      { "ticker": "JPM", "name": "JPMorgan Chase", "sector": "Financial Services", "weight": 10, "performance30d": -2.1 },
+      { "ticker": "GS", "name": "Goldman Sachs", "sector": "Financial Services", "weight": 10, "performance30d": -3.5 }
+    ]
+  },
+  {
+    "portfolioId": "PF-009",
+    "clientName": "Patricia O'Brien",
+    "clientEmail": "p.obrien@emeraldwealth.com",
+    "totalValue": 4700000,
+    "riskScore": 42,
+    "recentChange": 0.5,
+    "flagReason": null,
+    "allocation": {
+      "Fixed Income": 35,
+      "Consumer Staples": 20,
+      "Healthcare": 18,
+      "Utilities": 15,
+      "Cash": 12
+    },
+    "holdings": [
+      { "ticker": "AGG", "name": "iShares Core US Aggregate Bond", "sector": "Fixed Income", "weight": 18, "performance30d": -1.8 },
+      { "ticker": "BND", "name": "Vanguard Total Bond Market", "sector": "Fixed Income", "weight": 17, "performance30d": -1.5 },
+      { "ticker": "PG", "name": "Procter & Gamble", "sector": "Consumer Staples", "weight": 10, "performance30d": 0.4 },
+      { "ticker": "KO", "name": "Coca-Cola", "sector": "Consumer Staples", "weight": 10, "performance30d": 1.1 },
+      { "ticker": "JNJ", "name": "Johnson & Johnson", "sector": "Healthcare", "weight": 10, "performance30d": 1.2 },
+      { "ticker": "ABBV", "name": "AbbVie Inc", "sector": "Healthcare", "weight": 8, "performance30d": -4.5 },
+      { "ticker": "NEE", "name": "NextEra Energy", "sector": "Utilities", "weight": 8, "performance30d": 1.8 },
+      { "ticker": "DUK", "name": "Duke Energy", "sector": "Utilities", "weight": 7, "performance30d": 0.9 }
+    ]
+  },
+  {
+    "portfolioId": "PF-010",
+    "clientName": "Thomas & Rebecca Ashford",
+    "clientEmail": "t.ashford@pinnacleadvisors.com",
+    "totalValue": 8400000,
+    "riskScore": 55,
+    "recentChange": -2.8,
+    "flagReason": null,
+    "allocation": {
+      "Technology": 22,
+      "Healthcare": 18,
+      "Financial Services": 18,
+      "Industrials": 15,
+      "Fixed Income": 17,
+      "Cash": 10
+    },
+    "holdings": [
+      { "ticker": "MSFT", "name": "Microsoft Corp", "sector": "Technology", "weight": 12, "performance30d": -5.2 },
+      { "ticker": "AAPL", "name": "Apple Inc", "sector": "Technology", "weight": 10, "performance30d": -7.8 },
+      { "ticker": "UNH", "name": "UnitedHealth Group", "sector": "Healthcare", "weight": 10, "performance30d": -0.8 },
+      { "ticker": "JNJ", "name": "Johnson & Johnson", "sector": "Healthcare", "weight": 8, "performance30d": 1.2 },
+      { "ticker": "JPM", "name": "JPMorgan Chase", "sector": "Financial Services", "weight": 10, "performance30d": -2.1 },
+      { "ticker": "BAC", "name": "Bank of America", "sector": "Financial Services", "weight": 8, "performance30d": -3.8 },
+      { "ticker": "CAT", "name": "Caterpillar", "sector": "Industrials", "weight": 8, "performance30d": -1.5 },
+      { "ticker": "DE", "name": "Deere & Company", "sector": "Industrials", "weight": 7, "performance30d": -2.0 },
+      { "ticker": "AGG", "name": "iShares Core US Aggregate Bond", "sector": "Fixed Income", "weight": 10, "performance30d": -1.8 },
+      { "ticker": "LQD", "name": "iShares Investment Grade Corporate", "sector": "Fixed Income", "weight": 7, "performance30d": -1.1 }
+    ]
+  },
+  {
+    "portfolioId": "PF-011",
+    "clientName": "Carlos Mendoza",
+    "clientEmail": "c.mendoza@vistacap.com",
+    "totalValue": 3600000,
+    "riskScore": 68,
+    "recentChange": -3.2,
+    "flagReason": null,
+    "allocation": {
+      "Technology": 28,
+      "Energy": 22,
+      "Industrials": 18,
+      "Healthcare": 12,
+      "Cash": 20
+    },
+    "holdings": [
+      { "ticker": "NVDA", "name": "NVIDIA Corp", "sector": "Technology", "weight": 12, "performance30d": -12.4 },
+      { "ticker": "MSFT", "name": "Microsoft Corp", "sector": "Technology", "weight": 10, "performance30d": -5.2 },
+      { "ticker": "CRM", "name": "Salesforce", "sector": "Technology", "weight": 6, "performance30d": -6.1 },
+      { "ticker": "XOM", "name": "ExxonMobil", "sector": "Energy", "weight": 12, "performance30d": 8.7 },
+      { "ticker": "CVX", "name": "Chevron Corp", "sector": "Energy", "weight": 10, "performance30d": 6.2 },
+      { "ticker": "HON", "name": "Honeywell", "sector": "Industrials", "weight": 10, "performance30d": -2.3 },
+      { "ticker": "GE", "name": "GE Aerospace", "sector": "Industrials", "weight": 8, "performance30d": -1.1 },
+      { "ticker": "LLY", "name": "Eli Lilly", "sector": "Healthcare", "weight": 7, "performance30d": -11.2 },
+      { "ticker": "PFE", "name": "Pfizer Inc", "sector": "Healthcare", "weight": 5, "performance30d": -9.3 }
+    ]
+  },
+  {
+    "portfolioId": "PF-012",
+    "clientName": "Diana Nakamura",
+    "clientEmail": "d.nakamura@zenithwealth.com",
+    "totalValue": 5100000,
+    "riskScore": 52,
+    "recentChange": -1.8,
+    "flagReason": null,
+    "allocation": {
+      "Healthcare": 25,
+      "Technology": 20,
+      "Consumer Staples": 20,
+      "Fixed Income": 20,
+      "Cash": 15
+    },
+    "holdings": [
+      { "ticker": "UNH", "name": "UnitedHealth Group", "sector": "Healthcare", "weight": 10, "performance30d": -0.8 },
+      { "ticker": "JNJ", "name": "Johnson & Johnson", "sector": "Healthcare", "weight": 8, "performance30d": 1.2 },
+      { "ticker": "ABBV", "name": "AbbVie Inc", "sector": "Healthcare", "weight": 7, "performance30d": -4.5 },
+      { "ticker": "MSFT", "name": "Microsoft Corp", "sector": "Technology", "weight": 10, "performance30d": -5.2 },
+      { "ticker": "GOOGL", "name": "Alphabet Inc", "sector": "Technology", "weight": 10, "performance30d": -4.7 },
+      { "ticker": "PG", "name": "Procter & Gamble", "sector": "Consumer Staples", "weight": 10, "performance30d": 0.4 },
+      { "ticker": "KO", "name": "Coca-Cola", "sector": "Consumer Staples", "weight": 10, "performance30d": 1.1 },
+      { "ticker": "AGG", "name": "iShares Core US Aggregate Bond", "sector": "Fixed Income", "weight": 12, "performance30d": -1.8 },
+      { "ticker": "BND", "name": "Vanguard Total Bond Market", "sector": "Fixed Income", "weight": 8, "performance30d": -1.5 }
+    ]
+  },
+  {
+    "portfolioId": "PF-013",
+    "clientName": "William Foster",
+    "clientEmail": "w.foster@vanguardelite.com",
+    "totalValue": 12500000,
+    "riskScore": 35,
+    "recentChange": -0.4,
+    "flagReason": null,
+    "allocation": {
+      "Fixed Income": 50,
+      "Real Estate": 15,
+      "Utilities": 15,
+      "Consumer Staples": 10,
+      "Cash": 10
+    },
+    "holdings": [
+      { "ticker": "AGG", "name": "iShares Core US Aggregate Bond", "sector": "Fixed Income", "weight": 25, "performance30d": -1.8 },
+      { "ticker": "TLT", "name": "iShares 20+ Year Treasury Bond", "sector": "Fixed Income", "weight": 15, "performance30d": -3.2 },
+      { "ticker": "LQD", "name": "iShares Investment Grade Corporate", "sector": "Fixed Income", "weight": 10, "performance30d": -1.1 },
+      { "ticker": "AMT", "name": "American Tower", "sector": "Real Estate", "weight": 8, "performance30d": -2.6 },
+      { "ticker": "PLD", "name": "Prologis", "sector": "Real Estate", "weight": 7, "performance30d": -1.9 },
+      { "ticker": "NEE", "name": "NextEra Energy", "sector": "Utilities", "weight": 8, "performance30d": 1.8 },
+      { "ticker": "SO", "name": "Southern Company", "sector": "Utilities", "weight": 7, "performance30d": 1.2 },
+      { "ticker": "PG", "name": "Procter & Gamble", "sector": "Consumer Staples", "weight": 5, "performance30d": 0.4 },
+      { "ticker": "WMT", "name": "Walmart Inc", "sector": "Consumer Staples", "weight": 5, "performance30d": 2.1 }
+    ]
+  },
+  {
+    "portfolioId": "PF-014",
+    "clientName": "Alexandra Ivanova",
+    "clientEmail": "a.ivanova@globaltrust.com",
+    "totalValue": 4000000,
+    "riskScore": 62,
+    "recentChange": -3.5,
+    "flagReason": null,
+    "allocation": {
+      "Technology": 22,
+      "Financial Services": 22,
+      "Healthcare": 18,
+      "Consumer Discretionary": 13,
+      "Cash": 25
+    },
+    "holdings": [
+      { "ticker": "MSFT", "name": "Microsoft Corp", "sector": "Technology", "weight": 12, "performance30d": -5.2 },
+      { "ticker": "AAPL", "name": "Apple Inc", "sector": "Technology", "weight": 10, "performance30d": -7.8 },
+      { "ticker": "JPM", "name": "JPMorgan Chase", "sector": "Financial Services", "weight": 12, "performance30d": -2.1 },
+      { "ticker": "GS", "name": "Goldman Sachs", "sector": "Financial Services", "weight": 10, "performance30d": -3.5 },
+      { "ticker": "UNH", "name": "UnitedHealth Group", "sector": "Healthcare", "weight": 10, "performance30d": -0.8 },
+      { "ticker": "ABBV", "name": "AbbVie Inc", "sector": "Healthcare", "weight": 8, "performance30d": -4.5 },
+      { "ticker": "AMZN", "name": "Amazon.com Inc", "sector": "Consumer Discretionary", "weight": 8, "performance30d": -3.1 },
+      { "ticker": "TSLA", "name": "Tesla Inc", "sector": "Consumer Discretionary", "weight": 5, "performance30d": -14.6 }
+    ]
+  },
+  {
+    "portfolioId": "PF-015",
+    "clientName": "Marcus Thompson",
+    "clientEmail": "m.thompson@atlaswealth.com",
+    "totalValue": 2200000,
+    "riskScore": 74,
+    "recentChange": -5.8,
+    "flagReason": null,
+    "allocation": {
+      "Technology": 40,
+      "Consumer Discretionary": 20,
+      "Financial Services": 15,
+      "Healthcare": 10,
+      "Cash": 15
+    },
+    "holdings": [
+      { "ticker": "NVDA", "name": "NVIDIA Corp", "sector": "Technology", "weight": 15, "performance30d": -12.4 },
+      { "ticker": "MSFT", "name": "Microsoft Corp", "sector": "Technology", "weight": 12, "performance30d": -5.2 },
+      { "ticker": "AAPL", "name": "Apple Inc", "sector": "Technology", "weight": 8, "performance30d": -7.8 },
+      { "ticker": "META", "name": "Meta Platforms", "sector": "Technology", "weight": 5, "performance30d": -6.3 },
+      { "ticker": "TSLA", "name": "Tesla Inc", "sector": "Consumer Discretionary", "weight": 10, "performance30d": -14.6 },
+      { "ticker": "AMZN", "name": "Amazon.com Inc", "sector": "Consumer Discretionary", "weight": 10, "performance30d": -3.1 },
+      { "ticker": "JPM", "name": "JPMorgan Chase", "sector": "Financial Services", "weight": 8, "performance30d": -2.1 },
+      { "ticker": "GS", "name": "Goldman Sachs", "sector": "Financial Services", "weight": 7, "performance30d": -3.5 },
+      { "ticker": "JNJ", "name": "Johnson & Johnson", "sector": "Healthcare", "weight": 5, "performance30d": 1.2 },
+      { "ticker": "PFE", "name": "Pfizer Inc", "sector": "Healthcare", "weight": 5, "performance30d": -9.3 }
+    ]
+  },
+  {
+    "portfolioId": "PF-016",
+    "clientName": "Rachel Goldstein",
+    "clientEmail": "r.goldstein@meridianfp.com",
+    "totalValue": 3800000,
+    "riskScore": 48,
+    "recentChange": -1.0,
+    "flagReason": null,
+    "allocation": {
+      "Fixed Income": 30,
+      "Healthcare": 20,
+      "Consumer Staples": 18,
+      "Utilities": 15,
+      "Cash": 17
+    },
+    "holdings": [
+      { "ticker": "AGG", "name": "iShares Core US Aggregate Bond", "sector": "Fixed Income", "weight": 15, "performance30d": -1.8 },
+      { "ticker": "BND", "name": "Vanguard Total Bond Market", "sector": "Fixed Income", "weight": 15, "performance30d": -1.5 },
+      { "ticker": "JNJ", "name": "Johnson & Johnson", "sector": "Healthcare", "weight": 10, "performance30d": 1.2 },
+      { "ticker": "UNH", "name": "UnitedHealth Group", "sector": "Healthcare", "weight": 10, "performance30d": -0.8 },
+      { "ticker": "PG", "name": "Procter & Gamble", "sector": "Consumer Staples", "weight": 10, "performance30d": 0.4 },
+      { "ticker": "KO", "name": "Coca-Cola", "sector": "Consumer Staples", "weight": 8, "performance30d": 1.1 },
+      { "ticker": "NEE", "name": "NextEra Energy", "sector": "Utilities", "weight": 8, "performance30d": 1.8 },
+      { "ticker": "DUK", "name": "Duke Energy", "sector": "Utilities", "weight": 7, "performance30d": 0.9 }
+    ]
+  },
+  {
+    "portfolioId": "PF-017",
+    "clientName": "Harrison Wells",
+    "clientEmail": "h.wells@starcitywealth.com",
+    "totalValue": 6700000,
+    "riskScore": 60,
+    "recentChange": -2.2,
+    "flagReason": null,
+    "allocation": {
+      "Technology": 20,
+      "Industrials": 20,
+      "Healthcare": 18,
+      "Energy": 15,
+      "Fixed Income": 15,
+      "Cash": 12
+    },
+    "holdings": [
+      { "ticker": "MSFT", "name": "Microsoft Corp", "sector": "Technology", "weight": 10, "performance30d": -5.2 },
+      { "ticker": "GOOGL", "name": "Alphabet Inc", "sector": "Technology", "weight": 10, "performance30d": -4.7 },
+      { "ticker": "CAT", "name": "Caterpillar", "sector": "Industrials", "weight": 10, "performance30d": -1.5 },
+      { "ticker": "HON", "name": "Honeywell", "sector": "Industrials", "weight": 10, "performance30d": -2.3 },
+      { "ticker": "UNH", "name": "UnitedHealth Group", "sector": "Healthcare", "weight": 10, "performance30d": -0.8 },
+      { "ticker": "ABBV", "name": "AbbVie Inc", "sector": "Healthcare", "weight": 8, "performance30d": -4.5 },
+      { "ticker": "XOM", "name": "ExxonMobil", "sector": "Energy", "weight": 8, "performance30d": 8.7 },
+      { "ticker": "COP", "name": "ConocoPhillips", "sector": "Energy", "weight": 7, "performance30d": 5.8 },
+      { "ticker": "AGG", "name": "iShares Core US Aggregate Bond", "sector": "Fixed Income", "weight": 8, "performance30d": -1.8 },
+      { "ticker": "LQD", "name": "iShares Investment Grade Corporate", "sector": "Fixed Income", "weight": 7, "performance30d": -1.1 }
+    ]
+  },
+  {
+    "portfolioId": "PF-018",
+    "clientName": "Priya Sharma",
+    "clientEmail": "p.sharma@lotuswealth.com",
+    "totalValue": 1500000,
+    "riskScore": 70,
+    "recentChange": -4.1,
+    "flagReason": null,
+    "allocation": {
+      "Technology": 30,
+      "Healthcare": 25,
+      "Consumer Discretionary": 20,
+      "Cash": 25
+    },
+    "holdings": [
+      { "ticker": "AAPL", "name": "Apple Inc", "sector": "Technology", "weight": 12, "performance30d": -7.8 },
+      { "ticker": "MSFT", "name": "Microsoft Corp", "sector": "Technology", "weight": 10, "performance30d": -5.2 },
+      { "ticker": "AMD", "name": "Advanced Micro Devices", "sector": "Technology", "weight": 8, "performance30d": -9.8 },
+      { "ticker": "LLY", "name": "Eli Lilly", "sector": "Healthcare", "weight": 10, "performance30d": -11.2 },
+      { "ticker": "UNH", "name": "UnitedHealth Group", "sector": "Healthcare", "weight": 8, "performance30d": -0.8 },
+      { "ticker": "PFE", "name": "Pfizer Inc", "sector": "Healthcare", "weight": 7, "performance30d": -9.3 },
+      { "ticker": "TSLA", "name": "Tesla Inc", "sector": "Consumer Discretionary", "weight": 12, "performance30d": -14.6 },
+      { "ticker": "NKE", "name": "Nike Inc", "sector": "Consumer Discretionary", "weight": 8, "performance30d": -4.3 }
+    ]
+  },
+  {
+    "portfolioId": "PF-019",
+    "clientName": "George Papadopoulos",
+    "clientEmail": "g.papadopoulos@aegeanwealth.com",
+    "totalValue": 7200000,
+    "riskScore": 44,
+    "recentChange": -0.6,
+    "flagReason": null,
+    "allocation": {
+      "Fixed Income": 35,
+      "Real Estate": 18,
+      "Consumer Staples": 17,
+      "Utilities": 15,
+      "Cash": 15
+    },
+    "holdings": [
+      { "ticker": "AGG", "name": "iShares Core US Aggregate Bond", "sector": "Fixed Income", "weight": 18, "performance30d": -1.8 },
+      { "ticker": "TLT", "name": "iShares 20+ Year Treasury Bond", "sector": "Fixed Income", "weight": 10, "performance30d": -3.2 },
+      { "ticker": "LQD", "name": "iShares Investment Grade Corporate", "sector": "Fixed Income", "weight": 7, "performance30d": -1.1 },
+      { "ticker": "AMT", "name": "American Tower", "sector": "Real Estate", "weight": 10, "performance30d": -2.6 },
+      { "ticker": "PLD", "name": "Prologis", "sector": "Real Estate", "weight": 8, "performance30d": -1.9 },
+      { "ticker": "PG", "name": "Procter & Gamble", "sector": "Consumer Staples", "weight": 9, "performance30d": 0.4 },
+      { "ticker": "WMT", "name": "Walmart Inc", "sector": "Consumer Staples", "weight": 8, "performance30d": 2.1 },
+      { "ticker": "NEE", "name": "NextEra Energy", "sector": "Utilities", "weight": 8, "performance30d": 1.8 },
+      { "ticker": "SO", "name": "Southern Company", "sector": "Utilities", "weight": 7, "performance30d": 1.2 }
+    ]
+  },
+  {
+    "portfolioId": "PF-020",
+    "clientName": "Natalie Dubois",
+    "clientEmail": "n.dubois@châteauwealth.com",
+    "totalValue": 5800000,
+    "riskScore": 56,
+    "recentChange": -2.0,
+    "flagReason": null,
+    "allocation": {
+      "Technology": 18,
+      "Healthcare": 18,
+      "Financial Services": 17,
+      "Consumer Staples": 17,
+      "Fixed Income": 15,
+      "Cash": 15
+    },
+    "holdings": [
+      { "ticker": "MSFT", "name": "Microsoft Corp", "sector": "Technology", "weight": 10, "performance30d": -5.2 },
+      { "ticker": "AAPL", "name": "Apple Inc", "sector": "Technology", "weight": 8, "performance30d": -7.8 },
+      { "ticker": "JNJ", "name": "Johnson & Johnson", "sector": "Healthcare", "weight": 10, "performance30d": 1.2 },
+      { "ticker": "UNH", "name": "UnitedHealth Group", "sector": "Healthcare", "weight": 8, "performance30d": -0.8 },
+      { "ticker": "JPM", "name": "JPMorgan Chase", "sector": "Financial Services", "weight": 9, "performance30d": -2.1 },
+      { "ticker": "BAC", "name": "Bank of America", "sector": "Financial Services", "weight": 8, "performance30d": -3.8 },
+      { "ticker": "PG", "name": "Procter & Gamble", "sector": "Consumer Staples", "weight": 9, "performance30d": 0.4 },
+      { "ticker": "KO", "name": "Coca-Cola", "sector": "Consumer Staples", "weight": 8, "performance30d": 1.1 },
+      { "ticker": "AGG", "name": "iShares Core US Aggregate Bond", "sector": "Fixed Income", "weight": 8, "performance30d": -1.8 },
+      { "ticker": "BND", "name": "Vanguard Total Bond Market", "sector": "Fixed Income", "weight": 7, "performance30d": -1.5 }
+    ]
+  }
+]
