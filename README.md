@@ -2,6 +2,8 @@
 
 A 3-minute demo showcasing the **GitHub Copilot SDK** for agentic workflows in financial services. The application walks a broker through a 6-step portfolio risk review — from market analysis to compliance pre-check — powered by Copilot tool invocation, multi-turn sessions, and SSE streaming.
 
+## Demo
+https://www.youtube.com/watch?v=SRtzNyrPUW0&t=84s
 ## Architecture
 
 ```
